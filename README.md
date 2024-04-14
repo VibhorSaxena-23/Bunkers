@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About Bunkers 
+
+It is a smart college hostel recommendation/ selection Web App :It is a Room Accommodation System to cater to freshmen selecting rooms and hostels. Enable intuitive room selection, hostel preferences, and real-time availability. Enhance user experience for freshmen and streamline accommodation management for the university.
